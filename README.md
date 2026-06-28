@@ -36,11 +36,10 @@ Med_care data: The primary dataset used for this analysis is the "Med_care data.
 -  Data Grain_level Identification 
 
 ## Exploratory Data Analysis
-- What is the overall sales trend?
-- Which products are the top sellers?
-- What are the peak sales period?
-- Which brand distrbuted the most orders?
-- Brand Retention Analysis
+- What is the readmission rate?
+- How does severity level influence recovery?
+- What department get the most readmission?
+- Which doctor recorded the highest recovery rate?
 
 ## Data Analysis Query Highlight
 ```sql
